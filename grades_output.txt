@@ -1,0 +1,3 @@
+Average grade: 57.333333333333336
+Highest grade: 99
+Lowest grade: 11
